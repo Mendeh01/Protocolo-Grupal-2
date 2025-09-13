@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Protocolo-grupal 2.iml" filepath="$PROJECT_DIR$/Protocolo-grupal 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller 8/Taller 8.iml" filepath="$PROJECT_DIR$/Taller 8/Taller 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller 9/Taller 9.iml" filepath="$PROJECT_DIR$/Taller 9/Taller 9.iml" />
     </modules>
   </component>
 </project>

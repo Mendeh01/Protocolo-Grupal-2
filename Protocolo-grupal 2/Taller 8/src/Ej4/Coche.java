@@ -7,6 +7,6 @@ public class Coche extends Vehiculo {
 
     public void mostrarMarca() {
         //tiene acceso privado en Vehiculo
-        // System.out.println(marca);
+        System.out.println(marca);
     }
 }
